@@ -1,0 +1,24 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.google.guava:guava:24.1-jre'
+        classpath 'com.android.tools.build:gradle:3.5.3'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+task runIntegrationTests {
+    dependsOn ":backend:appengineStart"
+    dependsOn ":app:connectedCheck"
+    tasks.findByPath(':app:connectedCheck').mustRunAfter(":backend:appengineStart")
+    tasks.findByPath(':app:connectedCheck').finalizedBy(":backend:appengineStop")
+}

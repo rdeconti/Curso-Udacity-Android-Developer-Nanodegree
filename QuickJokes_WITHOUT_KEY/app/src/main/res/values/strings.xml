@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- .............................................................................. App data -->
+    <string name="app_name" translatable="false">Quick Jokes</string>
+
+    <!-- ........................................................................... Screen data -->
+    <string name="instructions" translatable="false">Press the button for a delicious joke!</string>
+    <string name="button_text" translatable="false">Tell me a joke</string>
+
+    <!-- .............................................................................. Messages -->
+    <string name="message_10" translatable="false">Quick Jokes has problems to get a joke ...</string>
+    <string name="message_11" translatable="false">Quick jokes came back later ...</string>
+
+</resources>

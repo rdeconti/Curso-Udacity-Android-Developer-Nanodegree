@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- .............................................................................. App data -->
+    <string name="app_name" translatable="false">Quick Jokes</string>
+
+    <!-- ........................................................................... Screen data -->
+    <string name="instructions" translatable="false">Press the button for a delicious joke!</string>
+    <string name="button_text" translatable="false">Tell me a joke</string>
+
+    <!-- .............................................................................. Messages -->
+    <string name="message_20">Extras cannot be null. Please use the newIntent method.</string>
+
+    <!-- .................................................................. Content Descriptions -->
+    <string name="content_description_01">QuickJokes</string>
+
+</resources>
