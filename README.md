@@ -2,7 +2,6 @@
 
 # MÓDULO 1
 Boas-vindas ao Nanodegree
-Bem-vindo ao Nanodegree Desenvolvedor Android! Em seguida, você terá uma visão geral do programa e conhecerá alguns recursos úteis para ajudar na sua preparação.
 Tempo estimado: 20 minutos
 
 # MÓDULO 2
