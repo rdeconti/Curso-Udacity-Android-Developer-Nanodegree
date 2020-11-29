@@ -1,13 +1,13 @@
-# Olá! Meu nome é Rosemeire Deconti!
+# Olá! Meu nome é Rosemeire Deconti! Meus perfis:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/rdeconti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
 
-# Udacity
-https://www.udacity.com/
-
 # Curso-Udacity-Android-Developer-Nanodegree
 ### <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20Udacity%20Android%20Developer%20Nanodegree.pdf">Certificado de conclusão</a>
+
+# Udacity
+https://www.udacity.com/
 
 # MÓDULO 1
 ### > Concluido :heavy_check_mark:
