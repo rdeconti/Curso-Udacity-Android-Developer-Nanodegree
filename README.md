@@ -1,8 +1,3 @@
-# Olá! Meu nome é Rosemeire Deconti! Meus perfis:
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/rdeconti)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdeconti/)](https://www.linkedin.com/in/rdeconti/)
-
 # Curso-Udacity-Android-Developer-Nanodegree
 ### <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20Udacity%20Android%20Developer%20Nanodegree.pdf">Certificado de conclusão</a>
 
@@ -51,13 +46,3 @@ Use tudo o que você aprendeu neste programa para dar vida à sua própria ideia
 Projeto: Projeto: Capstone, Parte 1 - Design
 Projeto: Projeto 7: Capstone, Parte 2 - Desenvolvimento
 Tempo estimado: 49 dias
-
-# PROJETOS EXECUTADOS DURANTE O CURSO
-
-| Projeto | Descrição | Situação | Link |
-| --- | --- | --- | --- |
-| Bake House| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Link</a> |
-| Elegant Reader| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Link</a> |
-| Find Movies| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Link</a> |
-| Quick Jokes| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Link</a> |
-| Best Meal| xxxxxxx | Concluido :heavy_check_mark: | <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Link</a> |
