@@ -1,4 +1,8 @@
-# Curso-Udacity-Android-Developer-Nanodegree
+:spiral_calendar: Atualizado em 13 Fevereiro de 2021 :heart:
+
+<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Udacity%20-%20Logotipo.png" />
+
+# Curso Udacity Android Developer Nanodegree
 ### <a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/blob/main/Certificado%20de%20conclus%C3%A3o%20-%20Udacity%20Android%20Developer%20Nanodegree.pdf">Certificado de conclusão</a>
 
 # Udacity
