@@ -1,29 +1,5 @@
-#BuildItBigger
+# BuildItBigger
 - A project for the Android Developer Nanodegree Udacity
-
-AdMob KEYS
-    Sample ad units
-    The quickest way to enable testing is to use Google-provided test ad units.
-    These ad units are not associated with your AdMob account, so there's no risk of your account
-    generating invalid traffic when using these ad units. Here are sample ad units that point to
-    specific test creatives for each format: (Ad format / Sample ad unit ID)
-    Banner
-    ca-app-pub-3940256099942544/6300978111
-    Interstitial
-    ca-app-pub-3940256099942544/1033173712
-    Interstitial Video
-    ca-app-pub-3940256099942544/8691691433
-    Rewarded Video
-    ca-app-pub-3940256099942544/5224354917
-    Native Advanced
-    ca-app-pub-3940256099942544/2247696110
-    Native Advanced Video
-    ca-app-pub-3940256099942544/1044960115
-
-    You can replace some of these keys by your own keys in these files:
-        strings.xml
-        strings.xml (free)
-        android manifest (app)
 
 # Description
 -    1) Project contains a Java library for supplying jokes.
